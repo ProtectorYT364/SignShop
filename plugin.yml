@@ -1,9 +1,8 @@
 ---
 name: SignShop
 main: SignShop\SignShop
-version: 1.7.0
-api: 
-- 3.4.0
+version: [3.0.0ALPHA12]
+api: [3.4.0]
 load: POSTWORLD
 author: xionbig
 authors: [xionbig]
