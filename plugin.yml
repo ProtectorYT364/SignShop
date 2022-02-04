@@ -1,13 +1,11 @@
 ---
 name: SignShop
 main: SignShop\SignShop
-version: [3.0.0ALPHA12]
-api: [3.4.0]
+version: [3.0.1]
+api: [3.0.0]
 load: POSTWORLD
 author: xionbig
-authors: [xionbig]
 description: "Buy and Sell the items using Signs with virtual-money."
-website: http://xionbig.netsons.org/plugins/SignShop
 permissions:
  sign:
   default: notop
